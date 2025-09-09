@@ -5,8 +5,8 @@
 Student of **HSFI**
 
 **Experience**
-* Fellow at the **opportunity network**
+> "* Fellow at the **opportunity network**
 * worked as a tutor
 * software development major
 * warby parker
-* took pyschology at hunter college and statistics (offered by laguadia cummunity college)
+* took pyschology at hunter college and statistics (offered by laguadia cummunity college)"

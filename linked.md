@@ -11,3 +11,4 @@ Student of **HSFI**
 * software development major
 * warby parker
 * took pyschology at hunter college and statistics (offered by laguadia cummunity college)"
+* :joy:

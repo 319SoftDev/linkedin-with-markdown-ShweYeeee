@@ -5,7 +5,7 @@
 Student of **HSFI**
 
 **Experience**
-> "* Fellow at the **opportunity network**
+> "* Fellow at the [**_opportunity network_**](https://opportunitynetwork.org/)
 * worked as a tutor
 * software development major
 * warby parker

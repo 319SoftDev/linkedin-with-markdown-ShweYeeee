@@ -9,6 +9,6 @@ Student of **HSFI**
 > " Fellow at the [**_opportunity network_**](https://opportunitynetwork.org/)"
 * worked as a tutor
 * software development major
-* warby parker
+* warby parker workplace challenge
 * took pyschology at hunter college and statistics (offered by laguadia cummunity college)"
 * :joy:
